@@ -2,7 +2,7 @@
 
 ## **IMHI Dataset**
 
-**Description**: First multi-task instruction dataset for interpretable mental health analysis with 105K samples across 8 tasks[1](https://github.com/SteveKGYang/MentalLLaMA)[7](https://www.medrxiv.org/content/10.1101/2024.12.29.24319755v1.full.pdf). Includes 10 test sets (19K samples) for depression detection, stress cause analysis, and wellness dimension identification
+**Description**: First multi-task instruction dataset for interpretable mental health analysis with 105K samples across 8 tasks[1](https://github.com/SteveKGYang/MentalLLaMA)[(https://www.medrxiv.org/content/10.1101/2024.12.29.24319755v1.full.pdf). Includes 10 test sets (19K samples) for depression detection, stress cause analysis, and wellness dimension identification
 
 | **Component** | **Details** |
 | --- | --- |
